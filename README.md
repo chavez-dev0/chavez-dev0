@@ -96,6 +96,6 @@ AI tools are creating a **productivity gap** between senior and junior developer
 
 **⚡ Building robust solutions, one line of code at a time**
 
-⭐️ From [code-buildo](https://github.com/chavez-dev0)
+⭐️ From [chavez](https://github.com/chavez-dev0)
 
 </div>
